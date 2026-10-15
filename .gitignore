@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+
+data/
+parsed/
+chunks/
+*.pptx
+*.pdf
+*.docx

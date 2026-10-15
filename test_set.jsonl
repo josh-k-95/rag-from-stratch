@@ -1,0 +1,10 @@
+{"id": "q1", "query": "How do I change the shape of an array?", "kind": "topic", "expected_slides": [22, 32]}
+{"id": "q2", "query": "How do I access a single element of a 2D NumPy array?", "kind": "topic", "expected_slides": [23, 24, 25]}
+{"id": "q3", "query": "How do I select a range of elements from an array?", "kind": "topic", "expected_slides": [27, 28]}
+{"id": "q4", "query": "What is the difference between element-wise multiplication and the matrix dot product?", "kind": "topic", "expected_slides": [30]}
+{"id": "q5", "query": "How do I create an array of evenly spaced numbers?", "kind": "topic", "expected_slides": [21]}
+{"id": "q6", "query": "What data types does NumPy support?", "kind": "topic", "expected_slides": [16]}
+{"id": "q7", "query": "What is SciPy used for?", "kind": "topic", "expected_slides": [35, 36]}
+{"id": "q8", "query": "What is a tensor?", "kind": "thin-slide", "expected_slides": [8]}
+{"id": "q9", "query": "Develop and implement data-based models to solve practical real-world problems and evaluate the models using various performance metrics", "kind": "negative-clo", "expected_slides": []}
+{"id": "q10", "query": "Examine and solve problems using feature engineering, parameter optimization, and natural language processing concepts and techniques.", "kind": "negative-clo", "expected_slides": []}
